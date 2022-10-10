@@ -13,7 +13,7 @@ The gist of sufficiency: losslessness. We can regenerate new samples that have t
 :::
 
 ### 4.1.2 Exp fam.
-A $k$-dimensional exponential family is a family of distributions $\left\{P_{\theta}: \theta \in \Theta\right\}$, dominated by some $\sigma$-finite measure $\nu$, with densities $p_{\theta}=d P_{\theta} / d \nu$ of the form $$p_{\theta}(x)=\exp \left[\sum_{j=1}^{k} c_{j}(\theta) T_{j}(x)-d(\theta)\right] h(x)$$ 
+A $k$-dimensional exponential family is a family of distributions $\left\(P_{\theta}: \theta \in \Theta\right\)$, dominated by some $\sigma$-finite measure $\nu$, with densities $p_{\theta}=d P_{\theta} / d \nu$ of the form $$p_{\theta}(x)=\exp \left[\sum_{j=1}^{k} c_{j}(\theta) T_{j}(x)-d(\theta)\right] h(x)$$ 
 
 :::warning
 **Note** 
